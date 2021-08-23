@@ -18,6 +18,5 @@ async def news (ctx):
     embed = discord.Embed(title="Новости")
     embed.add_field(name="Date", value=data["data"]["date"])
     embed.set_image(url=data["data"]["image"])
-    await ctx.send(embed=embed)
+    await ctx.send(embed=embed);
 
-bot.run("ODc5MTA2MjU4OTg3MjYyMDEz.YSK5gQ.7YYEFbHlTlI6HMMgzwQkNFCwq6c")
