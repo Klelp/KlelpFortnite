@@ -4,4 +4,4 @@ This is code send fortnite news and item shop. =)
 
 pleasant use for you :)
 
-Subscribe in github account
+Subscribe in  my github account
