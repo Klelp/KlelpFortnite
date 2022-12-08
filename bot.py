@@ -19,4 +19,7 @@ async def news (ctx):
     embed.add_field(name="Date", value=data["data"]["date"])
     embed.set_image(url=data["data"]["image"])
     await ctx.send(embed=embed);
+    
+bot.run("Api Discord Bot for your needed")
+
 
