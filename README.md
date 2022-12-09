@@ -2,6 +2,6 @@
 This is code python for Discord
 This is code send fortnite news and item shop. =)
 
-pleasant use for you :)
+Enjoy your use :)
 
 Subscribe in  my github account
